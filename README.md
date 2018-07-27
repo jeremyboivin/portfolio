@@ -9,5 +9,5 @@ You will find more information about me.
 
 # LINKS
 <ul>
-	<li>http://http://jeremyboivin.pagespro-orange.fr/</li>
+	<li>http://jeremyboivin.pagespro-orange.fr/</li>
 </ul>
